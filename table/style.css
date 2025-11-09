@@ -1,0 +1,47 @@
+.lightgreen{
+    background-color: #acc781;
+}
+.red{
+    background-color: #b52330;
+}
+.golden{
+    background-color: #e4a535;
+}
+.skyblue{
+    background-color: #a2bde3;
+}
+.lightperple{
+    background-color: #b095c2;
+}
+.yellow{
+    background-color: #eed033;
+}
+.pink{
+    background-color: #e2adc7;
+}
+.gray{
+    background-color: #c3c4c5;
+}
+.blue{
+    background-color: #599cd1;
+}
+.cgreen{
+    background-color: #93c8a4;
+}
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+td{
+    height: 50px;
+    width: 50px;
+    text-align: center;
+}
